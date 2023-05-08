@@ -45,16 +45,6 @@ public class Program {
 			for(Employee obj : list) {
 				System.out.println(obj);
 			}
-				
-			
-			
-
-			
-			
-
-			
-			
-		
 		sc.close();
 	}
 
